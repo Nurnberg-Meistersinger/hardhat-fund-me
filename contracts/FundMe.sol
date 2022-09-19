@@ -1,8 +1,8 @@
 /// SPDX-License-Identifier: MIT
-/// @title  A contract for crowd funding.
-/// @author Lev Menshchikov (tg: Nurnberg_Meistersinger).
-/// @notice This contract realizes some basic crowdfunding functions.
-/// @dev    This implements price feeds as our library.
+/// @title  A contract for crowd funding
+/// @author Lev Menshchikov
+/// @notice This contract realizes some basic crowdfunding functions
+/// @dev    This implements price feeds as our library
 
 pragma solidity ^0.8.7;
 
